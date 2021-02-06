@@ -1,0 +1,7 @@
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\bin\Debug\Lab1CompSyst.exe.config
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\bin\Debug\Lab1CompSyst.exe
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\bin\Debug\Lab1CompSyst.pdb
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\obj\Debug\comp.sys.lab1.csprojAssemblyReference.cache
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\obj\Debug\comp.sys.lab1.csproj.CoreCompileInputs.cache
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\obj\Debug\Lab1CompSyst.exe
+C:\Users\oksan\Downloads\Lab1CompSyst-20210206T140721Z-001\Lab1CompSyst\Lab1CompSyst\obj\Debug\Lab1CompSyst.pdb
